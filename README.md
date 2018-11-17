@@ -10,3 +10,4 @@
 ## Notes
 
 - [First call](src/first-call.md)
+- [Pre hack](src/pre-hack.md) meetup
