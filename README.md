@@ -11,3 +11,7 @@
 
 - [First call](src/first-call.md)
 - [Pre hack](src/pre-hack.md) meetup
+
+## Presentation
+
+Files https://github.com/OpenSourceHackers/documentation/issues/1
